@@ -1,12 +1,12 @@
 <template>
-  <div id="App">
-    <router-view></router-view>
+  <div class="page-searchResult">
+    <h1>搜索结果页</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'SearchResult'
 }
 </script>
 

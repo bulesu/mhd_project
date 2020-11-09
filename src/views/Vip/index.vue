@@ -1,12 +1,12 @@
 <template>
-  <div id="App">
-    <router-view></router-view>
+  <div class="page-vip">
+    <h1>Vip页</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Vip'
 }
 </script>
 

@@ -1,12 +1,12 @@
 <template>
-  <div id="App">
-    <router-view></router-view>
+  <div class="page-Classify">
+      <h1>分类页面</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Classify'
 }
 </script>
 
